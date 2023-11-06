@@ -1,1 +1,3 @@
-# IBM-MASTERTECH
+PROJETO CRIADO PARA A CONCLUSÃO DO MODULO 2 DO BOOTCAMP DA MASTERTECH COM A IBM;
+
+o projeto foi feito em Phyton com o google colab, onde a aplicação então verificará se as moedas inseridas são válidas de acordo com esta lista predefinida, então ela busca a sua taxa de câmbio atualizada e realiza a conversão caso a moeda exista como resultado ou informa um erro e diz que as moedas não foram encontradas e pede pro usuário tentar novamente. Para sair do sistema basta digitar o numero 0 para encerrar a aplicação quando não quiser mais converter nenhuma moeda.
